@@ -1,3 +1,13 @@
+# Bengaluru House Price Prediction
+
+## 📌 Project Overview
+
+Bengaluru House Price Prediction is a Machine Learning project developed using Python and IBM BOB. The project predicts house prices based on different house-related features provided by the user.
+
+## 🎯 Objective
+
+The main objective of this project is to build a simple machine learning system that can estimate the price of a house using the available Bengaluru housing dataset.
+
 ## How It Works
 
 | Step | Detail |
